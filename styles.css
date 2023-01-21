@@ -1,0 +1,107 @@
+.hthree{
+    font-family: arial, sans-serif;
+    text-align:center;
+    font-size: 20px;
+}
+.box{
+    text-align: center;
+
+}
+.hth3{
+    text-align: center;
+    font-size: 25px;
+}
+.contact{
+    font-weight: bold;
+    margin-left: 100px;
+}
+input{
+    width: 50%;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text1 {
+  color: #fd1c41;
+  font-size: 21px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align:center;
+  
+}
+
+.text2 {
+    color: #fd1c41;
+    font-size: 21px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align:center;
+    
+  }
+  .text3, .text5 {
+    color: #fd1c41;
+    font-size: 21px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align:center;
+    
+  }
+  .text4 {
+    color: #fd1c41;
+    font-size: 21px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align:center;
+  }
+  .box{
+    color: #000000;
+  }
+
+  
