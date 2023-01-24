@@ -105,8 +105,15 @@ input{
   }
   .box{
     color: #000000;
+    font-weight: 700;
   }
   .eat{
     text-align: center;
+    font-weight: 600;
+    }
+  h6{
+    text-align: center;
+    color: #615d5d;
+    
   }
   
