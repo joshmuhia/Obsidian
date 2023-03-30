@@ -110,14 +110,26 @@ input{
   }
   .eat{
     text-align: center;
-    font-weight: 600;
+    font-weight: 650;
     }
   h6{
     text-align: center;
     color: #615d5d;
     
   }
-  .joes{
-    background: linear-gradient(rgba(0, 0, 0, 0.5));
-    height: 10%;
+  .size{
+    height: 45%;
+    width: 55%;
   }
+  .joes :hover {
+    opacity: 1;
+    transition: opacity 1s, background 1s;
+    background: #377aff;
+  }
+    .joes{
+      height: 250px;
+    width: 200px;
+    opacity: 0.65;
+    transition: opacity 1s, background 1s;
+  }
+  
