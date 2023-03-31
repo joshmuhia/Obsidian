@@ -132,4 +132,94 @@ input{
     opacity: 0.65;
     transition: opacity 1s, background 1s;
   }
-  
+  #button1{
+    width: 20%;
+    height: 20%;
+    background-color: antiquewhite;
+    font-weight: 700;
+    font: 700;
+    border: none;
+  }
+  #button2{
+    width: 20%;
+    height: 20%;
+    background-color: rgba(255, 187, 0, 0.968);
+    font-weight: 700;
+    border: none;
+  }
+  #button3{
+    width: 20%;
+    height: 20%;
+    background-color: green;
+    font-weight: 700;
+    border: none;
+  }
+  #button4{
+    width: 20%;
+    height: 20%;
+    background-color: rgba(60, 83, 255, 0.909);
+    font-weight: 700;
+    font: 700;
+    border: none;
+  }
+  #button5{
+    width: 20%;
+    height: 20%;
+    background-color: red;
+    font-weight: 700;
+    font: 700;
+    border: none;
+  }
+  #button6{
+    width: 20%;
+    height: 20%;
+    background-color: black;
+    font-weight: 700;
+    color: aliceblue;
+    border: none;
+  }
+  #button1,#button2,#button3,#button4,#button5,#button6:hover{
+    cursor: pointer;
+  }
+  .Yellowstripstrip{
+    width: 30%;
+    height: 30%;
+    background: linear-gradient(
+    to right,
+    white 0%,
+    white 90%,
+    yellow 10%,
+    yellow 100%
+  );
+  cursor: pointer;
+  border: none;
+  }
+  .Yellowbeltbelt{
+    width: 30%;
+    height: 30%;
+    background-color: yellow;
+    cursor: pointer;
+    border: none;
+  }
+  .Greenstripstrip{
+    width: 30%;
+    height: 30%;
+    background: linear-gradient(
+    to right,
+    white 0%,
+    white 90%,
+    green 10%,
+    green 100%
+  ); cursor: pointer;
+  border: none;}
+  .Greenbeltbelt{
+    width: 30%;
+    height: 30%;
+    background-color: green;
+    cursor: pointer;
+    border: none;
+  }
+  h5{
+    font-family: Arial, Helvetica, serif;
+    
+  }
