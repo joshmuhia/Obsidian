@@ -113,9 +113,7 @@ input{
     font-weight: 650;
     }
   h6{
-    text-align: center;
-    color: #615d5d;
-    
+    color: #000000;    
   }
   .size{
     height: 45%;
@@ -206,8 +204,8 @@ input{
     height: 30%;
     background: linear-gradient(
     to right,
-    white 0%,
-    white 90%,
+    yellow 0%,
+    yellow 90%,
     green 10%,
     green 100%
   ); cursor: pointer;
@@ -222,4 +220,74 @@ input{
   h5{
     font-family: Arial, Helvetica, serif;
     
+  }
+  .Bluestripstrip{
+    width: 30%;
+    height: 30%;
+    background: linear-gradient(
+    to right,
+    green 0%,
+    green 90%,
+    blue 10%,
+    blue 100%
+  ); cursor: pointer;
+  border: none;
+  }
+  .Bluebeltbelt{
+    width: 30%;
+    height: 30%;
+    background-color:blue;
+    cursor: pointer;
+    border: none;
+  }
+  .sewey{
+    font-weight: 550;
+  }
+  .Redstripstrip{
+    width: 30%;
+    height: 30%;
+    background: linear-gradient(
+    to right,
+    rgb(0, 0, 255) 0%,
+    rgb(0, 0, 255) 90%,
+    red 10%,
+    red 100%
+  ); cursor: pointer;
+  border: none;
+  }
+  .Redbeltbelt{
+    width: 30%;
+    height: 30%;
+    background-color:red;
+    cursor: pointer;
+    border: none;
+  }
+  .Blackstripstrip{
+    width: 30%;
+    height: 30%;
+    background: linear-gradient(
+    to right,
+    rgb(255, 0, 0) 0%,
+    rgb(255, 0, 0) 90%,
+    black 10%,
+    black 100%
+  ); cursor: pointer;
+  border: none;
+  }
+  .Blackbeltbelt{
+    width: 30%;
+    height: 30%;
+    background-color:black;
+    cursor: pointer;
+    border: none;
+  }
+  .meta{
+    width: 3%;
+    height: 3%;
+  }
+  .sowwy{
+    width:15%;
+    height: 5%;
+    background-color: beige;
+    border: none;
   }
