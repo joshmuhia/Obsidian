@@ -304,7 +304,8 @@ input{
     font-family: Arial, Helvetica, sans-serif;
   }
   .sirjohn{
-    width: 400px;
+    width: 330px;
+    margin-top: -13%;
   }
   .Reviews{
     font-weight: 600;
@@ -418,3 +419,12 @@ input{
   .size7{
     width: 15%;
   }
+  .copyright{
+    text-align: center;
+  }
+  .joycesus{
+    width: 293px;
+    margin-top: -13%;
+    margin-left: 58.5%;
+  }
+   
