@@ -57,7 +57,7 @@ input{
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(14, 14, 14, 0.8);
 }
 
 /* Caption text */
@@ -396,4 +396,7 @@ input{
     40% {
       opacity: 0;
     }
+  }
+  .food{
+    text-align: center;
   }
